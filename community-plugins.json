@@ -58441,5 +58441,12 @@
     "author": "Folder First AI",
     "description": "Connect and safely refresh approved Company and Team shared vaults from GitHub. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "folderfirstai/folder-first-ai-shared-vaults"
+  },
+  {
+    "id": "simple-bible-fetcher",
+    "name": "Simple Bible Fetcher",
+    "author": "siatko",
+    "description": "Insert Bible verses from bolls.life as Markdown quotes.",
+    "repo": "siatko/obsidian-simple-bible-fetcher"
   }
 ]
